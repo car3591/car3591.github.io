@@ -3,7 +3,7 @@
 I'm from Roxbury, New Jersey and I went to Roxbury High School. I like playing video games and listening to music. 
 
 ### Favorite Food
-![Crab Legs](/docs/download.htm)
+![Crab Legs](/crab.jpg)
 
 ```markdown
 Syntax highlighted code block
