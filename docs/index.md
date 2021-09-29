@@ -7,7 +7,7 @@ I'm from Roxbury, New Jersey and I went to Roxbury High School. I like playing v
 
 
 ## SWEN 101
-[classLink] (http://www.se.rit.edu/~swen-101/00/index.html)
+[classLink](http://www.se.rit.edu/~swen-101/00/index.html)
 ```markdown
 Syntax highlighted code block
 
