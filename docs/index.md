@@ -1,12 +1,9 @@
 ## Ash Roushinko
 
-You can use the [editor on GitHub](https://github.com/car3591/car3591.github.io/edit/main/docs/index.md) to maintain and preview the content for your website in Markdown files.
+I'm from Roxbury, New Jersey and I went to Roxbury High School. I like playing video games and listening to music. 
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
-
-### Markdown
-
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+### Favorite Food
+![Crab Legs]
 
 ```markdown
 Syntax highlighted code block
